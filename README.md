@@ -28,12 +28,15 @@
   <br><br>
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
 
+<details open>
+    <summary><h2>🐍 Snake</h2></summary>
  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
        alt"Check out my commit history!" />
   </a>
-
   <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
          alt"Check out my commit history!" />
   </a>
+
+</details>
