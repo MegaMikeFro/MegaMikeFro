@@ -4,16 +4,6 @@
     <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=name+is+Fyodor.;Developer;Web+Developer.;in+touch.+%F0%9F%98%84">
   </a>
   <br><br>
-
-<a href="https://open.spotify.com/user/nsnm91a0oah54939hr7z02l3q" taret="_blank" rel="noopener noreferrer">
-    <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
-         alt="I love Spotify!"/>
-  </a>
-   <a href="https://open.spotify.com/user/nsnm91a0oah54939hr7z02l3q" taret="_blank" rel="noopener noreferrer">
-    <img src="https://galexy727.vercel.app/api/spotify?background_color=C7CBFF&border_color=DD2BC7" 
-         alt="I love Spotify!"/>
-  </a>
-
   <details open>
   <summary><h2>💭 Social Networks</h2></summary>
   <p>
