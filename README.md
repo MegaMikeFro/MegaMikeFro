@@ -5,6 +5,15 @@
   </a>
   <br><br>
 
+<a href="https://open.spotify.com/user/nsnm91a0oah54939hr7z02l3q2#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
+         alt="I love Spotify!"/>
+  </a>
+   <a href="https://open.spotify.com/user/nsnm91a0oah54939hr7z02l3q2#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://galexy727.vercel.app/api/spotify?background_color=C7CBFF&border_color=DD2BC7" 
+         alt="I love Spotify!"/>
+  </a>
+
   <details open>
   <summary><h2>💭 Social Networks</h2></summary>
   <p>
