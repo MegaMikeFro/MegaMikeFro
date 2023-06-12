@@ -32,3 +32,8 @@
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
        alt"Check out my commit history!" />
   </a>
+
+  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
+         alt"Check out my commit history!" />
+  </a>
