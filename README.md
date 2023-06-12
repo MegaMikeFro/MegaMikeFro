@@ -9,7 +9,7 @@
     <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
          alt="I love Spotify!"/>
   </a>
-   <a href="https://open.spotify.com/user/nsnm91a0oah54939hr7z02l3q#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
+   <a href="https://open.spotify.com/user/nsnm91a0oah54939hr7z02l3q" taret="_blank" rel="noopener noreferrer">
     <img src="https://galexy727.vercel.app/api/spotify?background_color=C7CBFF&border_color=DD2BC7" 
          alt="I love Spotify!"/>
   </a>
