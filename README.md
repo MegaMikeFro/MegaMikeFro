@@ -5,7 +5,7 @@
   </a>
   <br><br>
   <details open>
-  <summary><h2>💭 Socialy Networks</h2></summary>
+  <summary><h2>💭 Social Networks</h2></summary>
   <p>
   <a href="https://Tarun-Kamboj.github.io">
     <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
